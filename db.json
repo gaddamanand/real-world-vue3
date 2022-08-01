@@ -1,29 +1,31 @@
-[
-	{
-		"id": "25949",
-		"title": "Fireworks",
-		"description": "Fireworks festival in the heart of the city",
-		"date": "2022-08-15",
-		"time": "19:00",
-		"location": "Pattaya",
-		"image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
-	},
-	{
-		"id": "25950",
-		"title": "Wine tasting",
-		"description": "Wine tasting in the heart of the city",
-		"date": "2022-08-18",
-		"time": "22:00",
-		"location": "Bangkok",
-		"image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
-	},
-	{
-		"id": "25951",
-		"title": "Cocktail tasting",
-		"description": "Cocktail tasting in the heart of the city",
-		"date": "2022-08-16",
-		"time": "15:00",
-		"location": "Phuket",
-		"image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
-	}
-]
+{
+	"events": [
+		{
+			"id": "25949",
+			"title": "Fireworks",
+			"description": "Fireworks festival in the heart of the city",
+			"date": "2022-08-15",
+			"time": "19:00",
+			"location": "Pattaya",
+			"image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+		},
+		{
+			"id": "25950",
+			"title": "Wine tasting",
+			"description": "Wine tasting in the heart of the city",
+			"date": "2022-08-18",
+			"time": "22:00",
+			"location": "Bangkok",
+			"image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+		},
+		{
+			"id": "25951",
+			"title": "Cocktail tasting",
+			"description": "Cocktail tasting in the heart of the city",
+			"date": "2022-08-16",
+			"time": "15:00",
+			"location": "Phuket",
+			"image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+		}
+	]
+}
